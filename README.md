@@ -1,3 +1,5 @@
+# Intro
+Hello world my name is Adrian and I am learning how to use GitHub to further my career in IT!
 # Hello-World
 First Repository
 .md stands for mark down - an easy way to view these types of text files
